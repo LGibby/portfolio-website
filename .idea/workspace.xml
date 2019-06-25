@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92b36f44-7216-4c80-b09a-978444b05340" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -23,11 +20,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="225" column="70" selection-start-line="225" selection-start-column="70" selection-end-line="225" selection-end-column="70" />
+            <state relative-caret-position="397">
+              <caret line="22" column="93" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="93" />
               <folding>
                 <element signature="n#div#1;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#p#0;n#section#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#2;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#div#3;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#ul#0;n#div#1;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -157,12 +161,12 @@
       <updated>1560565093864</updated>
       <workItem from="1560565134364" duration="2698000" />
       <workItem from="1560631377346" duration="4819000" />
-      <workItem from="1561485279381" duration="1901000" />
+      <workItem from="1561485279381" duration="2524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9418000" />
+    <option name="totallyTimeSpent" value="10041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -216,11 +220,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="225" column="70" selection-start-line="225" selection-start-column="70" selection-end-line="225" selection-end-column="70" />
+        <state relative-caret-position="397">
+          <caret line="22" column="93" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="93" />
           <folding>
             <element signature="n#div#1;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#p#0;n#section#0;n#div#1;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#2;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#div#3;n#div#0;n#section#0;n#div#1;n#div#0;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#1;n#div#1;n#section#4;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
